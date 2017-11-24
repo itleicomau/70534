@@ -7,4 +7,10 @@
 1. Create mobile app and let it talk to phone </br>
 2. Authenticate mobile app and let it authenticate with facebook </br>
 
+#2017 11 24 - Successfully setup Azure B2C tenants </br>
+Successfully registered on premise applications </BR>/
+Successfully registered Facebook and Email as login. Also understood claims </br> 
+Nice Work!
+
+#2017 11 27 - Planning on working Azure B2C API </br>
 
