@@ -14,5 +14,8 @@ Nice Work!
 
 #2017 11 27 - Planning on working Azure B2C API </br>
 #2017 11 27 - Start 70-534 - Work with Azure keyVault </br>
-# left over - Worker role - Notification hub - service bus- Web role </br>
+#LAB 2017 11 29 
+createWorker role - </br>
+Notification hub -  </br>
+service bus- Web role </br>
 
