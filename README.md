@@ -18,4 +18,13 @@ Nice Work!
 createWorker role - </br>
 Notification hub -  </br>
 service bus- Web role </br>
+node.js API with GIT  </br>
+service bus queue object </br>
+create queue not exist </br>
+
+2017 11 29
+5PM
+Serivce Bus
+1. created Service BUS - csvtestbus.servicebus.windows.net
+2. obtain the management credentials
 
